@@ -30,11 +30,14 @@ const WhatWeDo = () => {
         </li>
         <li className='inline-flex flex-col items-center'>
           <GiShakingHands className='text-[100px] border border-gray-400 rounded-full p-5 text-orange-600' />
-          <span className='font-medium text-lg'>Crisis Management</span>
+          <span className='font-medium text-lg'>Probate Case</span>
           <p className='w-40 text-center'>
-            In times of crisis, prepared and trusted legal counsel can provide
-            stability and clarity, bringing together the right resources when
-            they are needed most.
+            Our firm provides expert guidance through the probate process,
+            helping clients manage the legal and administrative responsibilities involved in settling estates. 
+            From validating wills to distributing assets and resolving any disputes, 
+            we ensure that probate proceedings are handled with efficiency and care,
+            easing the transition during a difficult time. 
+            Our commitment is to protect the wishes of the deceased while supporting beneficiaries and heirs every step of the way.
           </p>
         </li>
         <li className='inline-flex flex-col items-center'>
