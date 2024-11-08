@@ -12,6 +12,7 @@ const FooterBanner = () => {
             associatesbp526@gmail.com
           </a>
           <p>+1(225)-800-8211</p>
+          <p>+233(551)699845</p>
         </div>
       </div>
 
